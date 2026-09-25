@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+transformers
+requests
+bs4
+pydantic
+pillow
+sse-starlette
+python-dotenv
